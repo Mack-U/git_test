@@ -1,0 +1,1 @@
+This is macks first git project!
